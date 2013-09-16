@@ -1,7 +1,7 @@
 generator-hazdev-webapp
 =======================
 
-[![Build Status](https://secure.travis-ci.org/emartinez-usgs/generator-hazdev-we blib.png?branch=master)](https://travis-ci.org/emartinez-usgs/generator-hazdev-weblib)
+[![Build Status](https://secure.travis-ci.org/emartinez-usgs/generator-hazdev-weblib.png?branch=master)](https://travis-ci.org/emartinez-usgs/generator-hazdev-weblib)
 
 A web library generator for Yeoman used by the USGS Earthquake Hazards
 Program "HazDev" team.
